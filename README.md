@@ -1,7 +1,9 @@
 # Telecom Customer Churn Analysis 
 
 ![image alt]
-(https://github.com/Isaac5886/Telecom-customer-churn-dashboard-/blob/b7a676bf2809628d1a562656b879cade3fa03f84/Telecom-customer-churn-dashboard.png)
+![1755682138807561954011264663197](https://github.com/user-attachments/assets/efb83727-bc41-4b63-8f65-a475a4907c0f)
+
+
 
 # Project Overview
 This project presents an in-depth analysis of customer churn within the telecom industry. Using Excel's powerful data analysis tools, we've uncovered key insights to help reduce churn rates and improve customer retention strategies.
