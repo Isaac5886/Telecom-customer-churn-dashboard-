@@ -5,13 +5,17 @@
 
 
 # Project Overview
-This project presents an in-depth analysis of customer churn within the telecom industry. Using Excel's powerful data analysis tools, we've uncovered key insights to help reduce churn rates and improve customer retention strategies.
+This project provide an in-depth analysis of customer churn within the telecom industry using Excel's. The dashboard highlights churn patterns based on contract type, payment method, internet service and customer demographics. we've uncovered key insights to help reduce churn rates and improve customer retention strategies.
 
 # Key Findings
-Total Customers: 6,687
-Churned Customers: 1,796
-Overall Churn Rate: 26.86%
-Churn by Demographics
+Total Customers: 7,043
+Churned Customers: 1,869
+Active Customer: 5,174
+Overall Churn Rate: 26.5%
+Average monthly charges: $64.76
+Total Charges: $16,056,169
+
+# Churn by Demographics
 Significant variations in churn rates among seniors and customers under 30
 
 # Age Group Analysis
@@ -44,10 +48,10 @@ Focus on improving customer experience in high-churn states
 
 # Tools Used
 Microsoft Excel
+Power Query
 Pivot Tables
 Charts and Visualizations
 Calculated Columns and Fields
-Data Analysis Toolpak
 
 # Dataset
 The dataset for this project is available in the following Excel file:
