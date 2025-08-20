@@ -8,48 +8,39 @@
 This project provide an in-depth analysis of customer churn within the telecom industry using Excel's. The dashboard highlights churn patterns based on contract type, payment method, internet service and customer demographics. we've uncovered key insights to help reduce churn rates and improve customer retention strategies.
 
 # Key Findings
-. Total Customers: 7,043
+• Total Customers: 7,043
 
-. Churned Customers: 1,869
+• Churned Customers: 1,869
 
-. Active Customer: 5,174
+• Active Customer: 5,174
 
-. Overall Churn Rate: 26.5%
+• Overall Churn Rate: 26.5%
 
-. Average monthly charges: $64.76
+• Average monthly charges: $64.76
 
-. Total Charges: $16,056,169
+• Total Charges: $16,056,169
 
-# Churn by Demographics
-Significant variations in churn rates among seniors and customers under 30
+# Contract Type
+Month-to-month customers show the highest churn.  
 
-# Age Group Analysis
-Highest churn rate observed in the 79-88 age group
+# Internet Service
+Fiber optic users churn more than DSL users.  
 
-# Competitor Churn Analysis
-Main reasons for switching to competitors:
-Better device offers (37%)
-More attractive data plans (37%)
-Higher download speeds (14%)
+# Payment Method
+Electronic check users churn more than those on auto-pay.  
 
-# Consumption-based Churn
-Higher churn rates among users consuming less than 5GB of data
-Geographic Churn Patterns
-Highest churn rates:
-California (75%)
-Indiana (67%)
-New Hampshire (63%)
+# Tenure
+Customers with higher tenure churn less.  
+
+# Customer Distribution
+Most customers are on flexible (month-to-month) plans.
 
 # Methodology
-Utilized Excel's Pivot Tables, Charts, and Data Analysis Toolpak
-Created a comprehensive dashboard for visualizing churn patterns
-Employed calculated columns and fields for deeper insights
+■ Utilized Excel's Pivot Tables, Charts, and Data Analysis Toolpak
 
-# Key Takeaways
-Target retention strategies towards the 79-88 age group
-Address pricing concerns and enhance service quality
-Develop competitive device and data plan offerings
-Focus on improving customer experience in high-churn states
+■ Created a comprehensive dashboard for visualizing churn patterns
+
+■ Employed calculated columns and fields for deeper insights
 
 # Tools Used
 Microsoft Excel
@@ -58,12 +49,9 @@ Pivot Tables
 Charts and Visualizations
 Calculated Columns and Fields
 
-# Dataset
-The dataset for this project is available in the following Excel file:
+# Business Impact
+■ Improve retention by offering longer contract incentives.  
 
-Analyzing Customer Churn Dataset.xlsx
+■ Promote auto-pay options.  
 
-This dataset contains detailed information about customer churn in the telecom industry, including demographics, usage patterns, and reasons for churn.
-
-# Acknowledgements
-This project was completed as part of DataCamp's Data Analyst with Excel track. Special thanks to DataCamp for providing the dataset and project structure
+■ Enhance support for fiber optic
