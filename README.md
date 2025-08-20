@@ -1,6 +1,6 @@
 # Telecom-customer-churn-dashboard-
 
-[customer churn Dashboard]
+![customer churn Dashboard]
 (Analyzing-Customer-Churn-Dashboard.png)
 
 # Project Overview
