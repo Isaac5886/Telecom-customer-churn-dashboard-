@@ -43,11 +43,17 @@ Most customers are on flexible (month-to-month) plans.
 ■ Employed calculated columns and fields for deeper insights
 
 # Tools Used
-Microsoft Excel
-Power Query
-Pivot Tables
-Charts and Visualizations
-Calculated Columns and Fields
+• Microsoft Excel
+
+• Power Query
+
+• Pivot Tables
+
+• Slicer
+
+• Charts and Visualizations
+
+• Calculated Columns and Fields
 
 # Business Impact
 ■ Improve retention by offering longer contract incentives.  
