@@ -1,6 +1,6 @@
 # Telecom Customer Churn Analysis 
 
-![1755682138807561954011264663197](https://github.com/user-attachments/assets/efb83727-bc41-4b63-8f65-a475a4907c0f)
+![image alt](https://github.com/Isaac5886/Telecom-customer-churn-dashboard-/blob/c88dc5859df23c8bf5e7b27d6331b05f3c37593a/Analyxing%20Customer%20Churn%20Dashboard.jpg)
 
 
 
